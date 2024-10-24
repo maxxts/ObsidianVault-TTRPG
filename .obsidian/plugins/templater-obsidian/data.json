@@ -1,0 +1,52 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Config/Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "DnD/Veniventure/Sessions",
+      "template": "Config/Templates/Veniventure/DnD Session Template.md"
+    },
+    {
+      "folder": "DnD/Veniventure/Lore/Locations",
+      "template": "Config/Templates/Veniventure/DnD Place Template.md"
+    },
+    {
+      "folder": "DnD/Veniventure/Lore/Locations/Shops",
+      "template": "Config/Templates/Veniventure/DnD Shop Template.md"
+    },
+    {
+      "folder": "DnD/Veniventure/Lore/NPCs",
+      "template": "Config/Templates/Veniventure/DnD NPC Template.md"
+    },
+    {
+      "folder": "DnD/Veniventure/Lore/Races",
+      "template": "Config/Templates/Veniventure/DnD Race Template.md"
+    },
+    {
+      "folder": "DnD/Veniventure/Lore/Factions",
+      "template": "Config/Templates/Veniventure/DnD Faction Template.md"
+    },
+    {
+      "folder": "DnD/Veniventure/Quests",
+      "template": "Config/Templates/Veniventure/DnD Quest Template.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "enabled_templates_hotkeys": [],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}

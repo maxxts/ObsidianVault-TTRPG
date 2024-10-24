@@ -1,0 +1,272 @@
+{
+  "choices": [
+    {
+      "id": "dc9bd765-1f03-4b19-a05a-263b441ef5f4",
+      "name": "Template - Add Veniventure Session",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Config/Templates/Veniventure/DnD Session Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE:YYYY-MM-DD}}-Veniventure"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "DnD/Veniventure/Sessions"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "c40998c5-270c-4ec0-8737-8a12ae327b6c",
+      "name": "Template - Add Veniventure  Quest",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Config/Templates/Veniventure/DnD Quest Template.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "DnD/Veniventure/Quests"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "9981185f-8f7b-411a-b944-3f8b19e6bdbf",
+      "name": "Template - Add Veniventure Place",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Config/Templates/Veniventure/DnD Place Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "DnD/Veniventure/Lore/Locations"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "7a6aee32-97df-46b3-87aa-47524d7bbe75",
+      "name": "Template - Add Veniventure Shop",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Config/Templates/Veniventure/DnD Shop Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "DnD/Veniventure/Lore/Locations/Shops"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "01906fe8-5571-4998-bb4c-6bf2ab2e8933",
+      "name": "Template - Add Veniventure NPC",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Config/Templates/Veniventure/DnD NPC Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "DnD/Veniventure/Lore/NPCs"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "d39a4ae6-94f9-49d3-9a73-0a78b821b52e",
+      "name": "Template - Add Veniventure Race",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Config/Templates/Veniventure/DnD Race Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "DnD/Veniventure/Lore/Races"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "77586ca1-5639-4a47-8ba2-5bc3e0fe0e93",
+      "name": "Template - Add Veniventure Faction",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Config/Templates/Veniventure/DnD Faction Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "DnD/Veniventure/Lore/Factions"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "",
+  "announceUpdates": true,
+  "version": "1.8.1",
+  "disableOnlineFeatures": true,
+  "ai": {
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": true,
+    "providers": [
+      {
+        "name": "OpenAI",
+        "endpoint": "https://api.openai.com/v1",
+        "apiKey": "",
+        "models": [
+          {
+            "name": "gpt-3.5-turbo",
+            "maxTokens": 4096
+          },
+          {
+            "name": "gpt-3.5-turbo-16k",
+            "maxTokens": 16384
+          },
+          {
+            "name": "gpt-3.5-turbo-1106",
+            "maxTokens": 16385
+          },
+          {
+            "name": "gpt-4",
+            "maxTokens": 8192
+          },
+          {
+            "name": "gpt-4-32k",
+            "maxTokens": 32768
+          },
+          {
+            "name": "gpt-4-1106-preview",
+            "maxTokens": 128000
+          },
+          {
+            "name": "text-davinci-003",
+            "maxTokens": 4096
+          }
+        ]
+      }
+    ]
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true,
+    "addDefaultAIProviders": true
+  }
+}

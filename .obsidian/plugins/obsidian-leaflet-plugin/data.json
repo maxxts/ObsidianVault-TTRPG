@@ -1,0 +1,633 @@
+{
+  "mapMarkers": [
+    {
+      "id": "leaflet-map",
+      "lastAccessed": 1711836921301,
+      "markers": [
+        {
+          "id": "ID_bbc90a4b8a59",
+          "type": "default",
+          "loc": [
+            -0.72265625,
+            0.4296875
+          ],
+          "layer": "%5B%5BS20240309-Boat-MainDeck.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5238095238095238,
+            0.45066991473812423
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "DnD/Veniventure/Sessions/2024-03-09-Veniventure.md"
+      ]
+    },
+    {
+      "id": "S20240309-Boat-MainDeck",
+      "lastAccessed": 1716650087608,
+      "markers": [
+        {
+          "id": "ID_f9dbc939d928",
+          "type": "Room",
+          "loc": [
+            -0.004890309409991963,
+            0.001406304190257429
+          ],
+          "link": "2024-03-09-Veniventure#Backroom",
+          "layer": "%5B%5BS20240309-Boat-MainDeck.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.43887405434624227,
+            0.7807340255620786
+          ],
+          "description": "Backroom",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5bf80bc8b98a",
+          "type": "Stairs (Down)",
+          "loc": [
+            -0.005271372480900428,
+            0.0022773054951910625
+          ],
+          "layer": "%5B%5BS20240309-Boat-MainDeck.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7106928234897213,
+            0.8415704431383445
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "DnD/Veniventure/Sessions/2024-03-09-Veniventure.md"
+      ]
+    },
+    {
+      "id": "S20240407-Boat-FullMap",
+      "lastAccessed": 1729788180305,
+      "markers": [
+        {
+          "id": "ID_58b998080a29",
+          "type": "Loot",
+          "loc": [
+            -0.0016321067836289225,
+            0.0002984993501681924
+          ],
+          "layer": "%5B%5BS20240407-Boat-FullMap.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Cofre Sellado",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f8f8c97aa819",
+          "type": "Room",
+          "loc": [
+            -0.0013799927478809972,
+            0.00042279860547997285
+          ],
+          "link": "2024-04-07-Veniventure#Cargo Hold",
+          "layer": "%5B%5BS20240407-Boat-FullMap.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.1385426470436775,
+            0.6547634731231061
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "DnD/Veniventure/Sessions/2024-04-07-Veniventure.md"
+      ]
+    },
+    {
+      "id": "S20240309-Boat-LowerDeck",
+      "lastAccessed": 1729788180305,
+      "markers": [
+        {
+          "id": "ID_2a4858f9e83a",
+          "type": "Room",
+          "loc": [
+            -0.0034871963307492116,
+            0.0016054913392468827
+          ],
+          "link": "2024-04-07-Veniventure#The Unholy Shrine",
+          "layer": "%5B%5BS20240309-Boat-LowerDeck.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5018566783167816,
+            0.5942914105988815
+          ],
+          "description": "Unholy Shrine",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_09e9d9089828",
+          "type": "Stairs (Up)",
+          "loc": [
+            -0.004650784106511986,
+            0.0022029073563077715
+          ],
+          "layer": "%5B%5BS20240309-Boat-LowerDeck.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6907642894879719,
+            0.7999836934497887
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b9dae91a2bf8",
+          "type": "Stairs (Down)",
+          "loc": [
+            -0.0049644805733326395,
+            0.0012520643758420981
+          ],
+          "layer": "%5B%5BS20240309-Boat-LowerDeck.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3ada7a39d9c9",
+          "type": "Stairs (Up)",
+          "loc": [
+            -0.0014843314458678387,
+            0.0010397575862574385
+          ],
+          "layer": "%5B%5BS20240309-Boat-LowerDeck.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "DnD/Veniventure/Sessions/2024-03-09-Veniventure.md",
+        "DnD/Veniventure/Sessions/2024-04-07-Veniventure.md"
+      ]
+    },
+    {
+      "id": "S20240525-Saltmarch-Map",
+      "lastAccessed": 1729788555463,
+      "markers": [
+        {
+          "id": "ID_ebb948baeae8",
+          "type": "default",
+          "loc": [
+            -0.005534601194085553,
+            0.006988525390625
+          ],
+          "layer": "%5B%5BS20240525-Saltmarch-Map.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Campanario de Saltmarch",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7ac8ea9989e9",
+          "type": "default",
+          "loc": [
+            -0.005879258808302026,
+            0.006269394809470216
+          ],
+          "layer": "%5B%5BS20240525-Saltmarch-Map.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5135888227918001,
+            0.48162888157610195
+          ],
+          "description": "Lab de Kematch",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d999f8c89a4a",
+          "type": "default",
+          "loc": [
+            -0.0072117319870383615,
+            0.007131323184144125
+          ],
+          "layer": "%5B%5BS20240525-Saltmarch-Map.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Sacerdotiza Sucula",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d9781b3afb58",
+          "type": "default",
+          "loc": [
+            -0.006839741846389622,
+            0.006487145135703624
+          ],
+          "layer": "%5B%5BS20240525-Saltmarch-Map.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Mascara NEgra + Maestro Espadas",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_381849395a9a",
+          "type": "default",
+          "loc": [
+            -0.0038258553249761462,
+            0.0085601806640625
+          ],
+          "layer": "%5B%5BS20240525-Saltmarch-Map.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Maristrad - Resistencia",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a3ba8eba93a",
+          "type": "default",
+          "loc": [
+            -0.005157947598490864,
+            0.005729675758630037
+          ],
+          "layer": "%5B%5BS20240525-Saltmarch-Map.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Skerin ",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_da0aeb08c908",
+          "type": "Tunnel",
+          "loc": [
+            -0.00406389229465276,
+            0.005725097842514515
+          ],
+          "layer": "%5B%5BS20240525-Saltmarch-Map.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_086b295879fb",
+          "type": "Tunnel",
+          "loc": [
+            -0.00579833984375,
+            0.008412170689553022
+          ],
+          "layer": "%5B%5BS20240525-Saltmarch-Map.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6891250228881836,
+            0.475
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6bd8ea599b8b",
+          "type": "Tunnel",
+          "loc": [
+            -0.004754638532176614,
+            0.008410644251853228
+          ],
+          "layer": "%5B%5BS20240525-Saltmarch-Map.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6889999771118164,
+            0.3894999885559082
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7bdacbebe819",
+          "type": "Town",
+          "loc": [
+            -0.007789850264089182,
+            0.007765960413962603
+          ],
+          "layer": "%5B%5BS20240525-Saltmarch-Map.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a9c8c9ea2aeb",
+          "type": "Loot",
+          "loc": [
+            -0.004583740374073386,
+            0.0074478150345385075
+          ],
+          "layer": "%5B%5BS20240525-Saltmarch-Map.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6101250076293945,
+            0.3755000114440918
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "DnD/Veniventure/Sessions/2024-05-25-Veniventure.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#ca8aff",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [
+    {
+      "type": "Town",
+      "iconName": "home",
+      "color": "#ff6161",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Lore",
+      "iconName": "book-open",
+      "color": "#4dbbff",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Loot",
+      "iconName": "coins",
+      "color": "#ffff00",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Room",
+      "iconName": "door-closed",
+      "color": "#c850ff",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Locked",
+      "iconName": "lock",
+      "color": "#ff2424",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Stairs (Down)",
+      "iconName": "level-down-alt",
+      "color": "#eeff00",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Stairs (Up)",
+      "iconName": "level-up-alt",
+      "color": "#eeff00",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Tunnel",
+      "iconName": "archway",
+      "color": "#00fffb",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Store",
+      "iconName": "shopping-cart",
+      "color": "#fff833",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": true,
+  "layerMarkers": true,
+  "previousVersion": "6.0.4",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 4
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": false,
+    "defaultZoom": 16.75,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "700px",
+    "image": "[[S20240407-Boat-FullMap.jpeg]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[S20240407-Boat-FullMap.jpeg]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 18,
+    "minZoom": 10,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 0.25,
+    "zoomFeatures": false,
+    "id": "S20240407-Boat-FullMap",
+    "width": "100%",
+    "lat": 50,
+    "long": 50,
+    "unit": "feet",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "metric",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

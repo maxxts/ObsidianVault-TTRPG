@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "-path:Config",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Dnd/NPC/Head",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#DnD/Session  ",
+      "color": {
+        "a": 1,
+        "rgb": 6086399
+      }
+    },
+    {
+      "query": "tag:#Dnd/Quest  ",
+      "color": {
+        "a": 1,
+        "rgb": 11031295
+      }
+    },
+    {
+      "query": "tag:#DnD/NPC  ",
+      "color": {
+        "a": 1,
+        "rgb": 1179392
+      }
+    },
+    {
+      "query": "tag:#DnD/Location  ",
+      "color": {
+        "a": 1,
+        "rgb": 16771584
+      }
+    },
+    {
+      "query": "tag:#DnD/PC  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -1.3,
+  "nodeSizeMultiplier": 0.98046875,
+  "lineSizeMultiplier": 1.00803125,
+  "collapse-forces": false,
+  "centerStrength": 0.3671875,
+  "repelStrength": 12.03125,
+  "linkStrength": 0.794270833333333,
+  "linkDistance": 237,
+  "scale": 0.6133939227791043,
+  "close": true
+}
