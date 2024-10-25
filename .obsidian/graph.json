@@ -46,7 +46,7 @@
       "query": "tag:#DnD/PC  ",
       "color": {
         "a": 1,
-        "rgb": 16777215
+        "rgb": 3289086
       }
     }
   ],
@@ -60,6 +60,6 @@
   "repelStrength": 12.03125,
   "linkStrength": 0.794270833333333,
   "linkDistance": 237,
-  "scale": 0.6133939227791043,
-  "close": true
+  "scale": 0.2635619300370946,
+  "close": false
 }

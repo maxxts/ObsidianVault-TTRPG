@@ -51,7 +51,7 @@ scale: 1
 darkMode: false
 ```
 
-Nos encontramos luego de la pelea con Krell en la Habitacion 10 (The Unholy Shrine)
+Nos encontramos luego de la pelea con [[Krell]] en la Habitación 10 (The Unholy Shrine)
 #### The Unholy Shrine
 
 Estamos en la habitación 10, the unholy shrine. El suelo esta cubierto con runas de sangre. Telarañas evrywhere. Cadaveres de araña everywhere. [[Tulion]] revisa las runas, y nos confirma que estas desactivadas. [[Miguelios]] y [[Barr-Barron]] deciden patear la puerta hacia la habitacion 11, revelando la siguiente habitacion...
