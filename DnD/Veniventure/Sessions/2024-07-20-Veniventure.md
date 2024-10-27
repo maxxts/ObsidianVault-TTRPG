@@ -3,7 +3,7 @@ tags:
   - DnD/Session
 world: Veniventure
 created: 2024-07-20
-summary: Slimes Rojos y Lujuria
+summary: Días de Slimes Rojos y Noches de Lujuria
 ---
 < [[World of Veniventure]]
 # Session Notes
@@ -42,7 +42,7 @@ En ese momento, todos los puntitos rojos y los pergaminos empiezan a vibrar y mo
 
 [[Miguelios]] y [[Tulion]] comienzan a bombardearlo de Fire Boltos, cual duo de Bad Boys. 
 
-Van Lumen se suma a la balacera. 
+Van Lumen se suma a la balacera.
 
 Pergaminos empiezan a prenderse fuego, golpes por aca y por alla. Hasta que [[Barr-Barron]] nos intimida para deternos --- 
 
@@ -188,7 +188,7 @@ Nos transformamos y a medida que impresionamos a las elfas de melena negro nos g
 
 #### Habitación Termal
 
-[[Miguelios]] entra a la habitación, y es recibido por un [[Mind Flayer]]. Intenta charmearlo usando el Eye of Charming. El gheik se le acerca y le pone un tentaculo encima. Dror le habla mentalemente, le pregunta si necesita ayuda. Pero Miguelios no siente nada... es posible que su mente no este en su cuerpo, sino en su espada. Miguelios actua, haciendo se cuenta que queda dormido, alterado.
+[[Miguelios]] entra a la habitación, y es recibido por un [[Mind Flayer]]. Intenta charmearlo usando el Eye of Charming. El gheik se le acerca y le pone un tentaculo encima. Dror le habla mentalemente, le pregunta si necesita ayuda. Pero Miguelios no siente nada... es posible que su mente no este en su cuerpo, sino en su espada. Miguelios actúa, haciendo se cuenta que queda dormido, alterado.
 
 #### Habitación Elfo
 
@@ -202,7 +202,7 @@ Nos transformamos y a medida que impresionamos a las elfas de melena negro nos g
 
 [[Van Lumen]] es llevado por un pasillo largo. Entro y no hay una, sino las 10 elfas de melena oscura.
 
-Se rollea hasta que todas, TODAS, llegan al climax. 
+Se rollea hasta que todas, TODAS, llegan al climax.
 
 #### Habitación de Baronesa Seclass
 
